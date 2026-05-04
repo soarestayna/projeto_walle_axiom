@@ -1,0 +1,1 @@
+Este é um projeto Open Source. Se você identificar uma vulnerabilidade de segurança neste código ou no protocolo Cerberus, por favor, não abra uma Issue pública. Envie um relatório detalhado para soares.tayna@outlook.com para que possamos tratar o risco de forma ética.

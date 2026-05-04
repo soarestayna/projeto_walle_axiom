@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+.venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dados e Configurações Locais
+.kaggle/
+kaggle.json
+*.csv
+*.json
+*.xlsx
+
+# Configurações de Editor
+.vscode/
