@@ -83,8 +83,8 @@ O repositório foi desenhado seguindo práticas de segurança e código limpo:
 Acesse os capítulos para entender a fundamentação teórica completa:
 
 1. [Introdução e Storytelling: O Paradoxo WALL-E](docs/01_contexto.md)
-2. [Privacidade e LGPD: Transparência e Dados](docs/02_privacidade_lgpd.md)
-3. [Riscos Residuais e Futuro: O Desafio Poliglota](docs/03_limitacoes_futuro.md)
+2. [Privacidade e LGPD](docs/02_privacidade_lgpd.md)
+3. [Riscos Residuais e Futuro](docs/03_limitacoes_futuro.md)
 4. [Referências Éticas e Bibliografia](docs/04_creditos_referencias.md)
 
 ---
