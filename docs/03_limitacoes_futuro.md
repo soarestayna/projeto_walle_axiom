@@ -22,4 +22,4 @@ Para elevar a maturidade da arquitetura, os desenvolvimentos futuros previstos s
 
 ---
 
-[<- Capítulo Anterior: Privacidade e LGPD](02_privacidade_lgpd.md) | [Voltar para o Início](../README.md) | [Próximo Capítulo: Glossário Técnico ->](04_creditos_referencias.md)
+[<- Capítulo Anterior: Privacidade e LGPD](02_privacidade_lgpd.md) | [Voltar para o Início](../README.md) | [Próximo Capítulo: Créditos e Referências ->](04_creditos_referencias.md)
